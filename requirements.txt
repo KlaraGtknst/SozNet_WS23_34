@@ -24,7 +24,7 @@ pexpect==4.9.0
 Pillow==10.1.0
 platformdirs==4.1.0
 prompt-toolkit==3.0.43
-psutil==5.9.6
+psutil==7.0.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pydot==3.0.4
