@@ -21,7 +21,7 @@ numpy==1.26.2
 packaging==23.2
 parso==0.8.3
 pexpect==4.9.0
-Pillow==10.1.0
+Pillow==10.3.0
 platformdirs==4.1.0
 prompt-toolkit==3.0.43
 psutil==5.9.6
@@ -35,6 +35,6 @@ pyzmq==25.1.2
 scipy==1.11.3
 six==1.16.0
 stack-data==0.6.3
-tornado==6.4
+tornado==6.4.2
 traitlets==5.14.0
 wcwidth==0.2.12
