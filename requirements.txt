@@ -5,7 +5,7 @@ contourpy==1.2.0
 cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
-executing==2.0.1
+executing==2.2.0
 fonttools==4.46.0
 ipykernel==6.27.1
 ipython==8.18.1
