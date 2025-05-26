@@ -36,5 +36,5 @@ scipy==1.11.3
 six==1.16.0
 stack-data==0.6.3
 tornado==6.5.1
-traitlets==5.14.0
+traitlets==5.14.3
 wcwidth==0.2.12
