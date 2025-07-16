@@ -21,7 +21,7 @@ numpy==2.0.2
 packaging==23.2
 parso==0.8.4
 pexpect==4.9.0
-Pillow==11.2.1
+Pillow==11.3.0
 platformdirs==4.3.7
 prompt-toolkit==3.0.43
 psutil==7.0.0
